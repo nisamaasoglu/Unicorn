@@ -12,7 +12,7 @@ can see that they have been found.
 
 | The rover | Under the shell |
 |---|---|
-| ![Solar panel deck](docs/rover_solar.jpg) | ![Wiring](docs/rover_internals.jpg) |
+| ![Solar panel deck](docs/rover_solar.jpg) | ![Wiring](docs/rover_internals.jpeg) |
 
 ---
 
